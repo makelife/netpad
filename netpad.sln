@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{9FAFF7C1-852A-F4BE-5F4E-5827011F0682}") = "netpad", "netpad.csproj", "{981EF438-087F-0510-8FFD-D5A1F3898BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981EF438-087F-0510-8FFD-D5A1F3898BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981EF438-087F-0510-8FFD-D5A1F3898BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981EF438-087F-0510-8FFD-D5A1F3898BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981EF438-087F-0510-8FFD-D5A1F3898BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
