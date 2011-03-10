@@ -3,7 +3,7 @@
 
 echo "Pushing git netpad with no message"
 echo "test"
-cd /users/James/netpad
+cd ~/netpad
 git init
 git add .
 echo "test"
