@@ -1,12 +1,11 @@
 #!/bin/bash
 # James Telfer: Git Committing and Backup Script
+# This will work on any Mac. It will commit all changes, merge them with the current master and push them.
 
-echo "Pushing git netpad with no message"
-echo "test"
+echo "Pushing git netpad with the message 'JWT'"
 cd ~/netpad
 git init
 git add .
-echo "test"
 git commit -a -v -m "JWT"
 git pull origin master
 git push origin master
