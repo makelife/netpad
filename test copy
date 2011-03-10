@@ -1,0 +1,15 @@
+#!/bin/bash
+# James Telfer: Git Committing and Backup Script
+
+echo "Pushing git" $1 "With message" $2
+echo "Press any key to continue..."
+read input
+
+if [ $input != "" ] 
+then
+  echo $input
+  exit
+fi
+exit
+
+

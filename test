@@ -1,0 +1,13 @@
+#!/bin/bash
+# James Telfer: Git Committing and Backup Script
+
+echo "Pushing git netpad with no message"
+echo "test"
+cd /users/James/netpad
+git init
+git add .
+echo "test"
+git commit -a -v -m "JWT"
+git pull origin master
+git push origin master
+exit
