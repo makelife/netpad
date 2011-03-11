@@ -1,0 +1,4 @@
+/Users/James/Projects/netpad/netpad/bin/Debug/netpad.exe.mdb
+/Users/James/Projects/netpad/netpad/bin/Debug/netpad.exe
+/Users/James/Projects/netpad/netpad/obj/x86/Debug/netpad.exe
+/Users/James/Projects/netpad/netpad/obj/x86/Debug/netpad.exe.mdb
