@@ -37,6 +37,9 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="NtpdServer.cs" />
+    <Compile Include="streamConverter.cs" />
+    <Compile Include="NtpdServerCommands.cs" />
+    <Compile Include="NtpdPersistentData.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

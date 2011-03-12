@@ -2,8 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="netpad/NtpdServer.cs">
     <Files>
-      <File FileName="netpad/NtpdServer.cs" Line="5" Column="17" />
-      <File FileName="netpad/NtpdClient.cs" Line="2" Column="1" />
+      <File FileName="netpad/streamConverter.cs" Line="18" Column="43" />
+      <File FileName="netpad/NtpdServer.cs" Line="88" Column="59" />
+      <File FileName="netpad/NtpdServerCommands.cs" Line="91" Column="12" />
+      <File FileName="netpad/NtpdPersistentData.cs" Line="83" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
